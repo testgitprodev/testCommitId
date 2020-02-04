@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_testsourcecontro.testSIii3</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>testSIii3</name>
+        <script><![CDATA[var testSIii3 = Class.create();
+testSIii3.prototype = {
+    initialize: function() {
+    },
+
+    type: 'testSIii3'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 06:11:30</sys_created_on>
+        <sys_id>5bdc3b7464320010f877e6ca1b3b7a85</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>testSIii3</sys_name>
+        <sys_package display_value="testSourceControlCommitId" source="x_testsourcecontro">6228b3f064320010f877e6ca1b3b7a9b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="testSourceControlCommitId">6228b3f064320010f877e6ca1b3b7a9b</sys_scope>
+        <sys_update_name>sys_script_include_5bdc3b7464320010f877e6ca1b3b7a85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 06:13:45</sys_updated_on>
+    </sys_script_include>
+</record_update>
